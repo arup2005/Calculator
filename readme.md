@@ -3,6 +3,7 @@
 ## This is a Lab Assignment
 - NAME - Arup Debnath
 - DEPARTMENT - BCA
+- SEM - 2nd
 - ROLL - 30001223052
 - REGISTRATION - 233001010526
 
