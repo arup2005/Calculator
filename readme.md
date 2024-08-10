@@ -26,14 +26,14 @@ Example:
 - 5.00 + 3.00 = 8.00
 
 ## Code Explanation
-### Header File: The program includes the standard input-output library:
-- #include <stdio.h>
+- Header File: The program includes the standard input-output library:
+#### #include <stdio.h>
 
-### Main Function: The main function contains the core logic of the program.
+- Main Function: The main function contains the core logic of the program.
 
-### Switch Statement: The program uses a switch statement to handle different operators and perform the corresponding arithmetic operation.
+- Switch Statement: The program uses a switch statement to handle different operators and perform the corresponding arithmetic operation.
 
-### Error Handling: The program checks for division by zero and invalid operators, displaying appropriate error messages.
+- Error Handling: The program checks for division by zero and invalid operators, displaying appropriate error messages.
 
 ## Notes
 - Ensure that the input values are valid numbers and the operator is one of the specified characters (+, -, *, /).
